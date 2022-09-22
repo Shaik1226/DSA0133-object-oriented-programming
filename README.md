@@ -23,3 +23,4 @@ sumofdigits.cpp
 swap.cpp
 vector.cpp
 voting.cpp
+using two functions.cpp
